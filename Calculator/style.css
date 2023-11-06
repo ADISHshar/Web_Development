@@ -1,0 +1,49 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+    background-color: rgb(14, 14, 30);
+}
+h1 {  
+   font-size: 40px;
+   font-family: Arial;
+   color: aliceblue;   
+}
+#operator{
+    color: yellow;
+}  
+#equal{
+    background-color: yellow;
+    color: black;
+}
+#clear{  
+    color: red;
+}  
+.formstyle  {  
+    width: 450px;  
+    height: 500px;  
+    margin: auto;  
+    border: 3px solid skyblue;  
+    border-radius: 5px;  
+    padding: 20px;  
+}   
+input{  
+    width: 80px;
+    height: 55px;  
+    background-color: rgba(32, 32, 50, 0.836);
+    color: rgb(154, 255, 250);  
+    border: 3px solid rgb(131, 131, 131);  
+    border-radius: 10px;  
+    margin: 10px;
+    font-size: 45px;  
+}   
+#calc{  
+    width: 370px;
+    height: 70px;  
+    padding: 20px;   
+}
+.btn:hover{
+    cursor: pointer;
+    background-color: rgb(67, 67, 67);
+}  

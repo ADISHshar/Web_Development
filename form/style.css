@@ -1,0 +1,15 @@
+body {
+    background-color: #f0f0f0;
+    background-image: url(home_slide2.jpg);
+    background-size: cover;
+}
+  
+.card {
+    background-color: #3941d115;
+  }
+  
+  .btn-primary {
+    background-color: #0d1048;
+    border-color: #2e1674;
+}
+  
